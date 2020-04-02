@@ -1,3 +1,5 @@
+한국일보 매뉴얼 사이트 테스트입니다.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/magentaworks/hankookilbo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
