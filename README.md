@@ -1,39 +1,15 @@
-한국일보 매뉴얼 사이트 테스트입니다.
+한국일보 매뉴얼 작성을 위한 Repository입니다.
 
-## Welcome to GitHub Pages
+# 메뉴얼 사이트
+실제 매뉴얼 사이트 접속은 아래 주소에서 가능합니다.
+https://magentaworks.github.io/hankookilbo/
 
-You can use the [editor on GitHub](https://github.com/magentaworks/hankookilbo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Just the Docs라는 Jekyll 테마를 사용하고 있습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 사이트 수정
+메뉴얼 사이트의 로고, 푸터 등의 정보 수정은 아래 문서를 참고하세요.
+https://pmarsceill.github.io/just-the-docs/docs/configuration/
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/magentaworks/hankookilbo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 본문 스타일
+본문 작성시 스타일은 아래 문서를 참고하세요.
+https://pmarsceill.github.io/just-the-docs/docs/ui-components
